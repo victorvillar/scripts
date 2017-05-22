@@ -1,0 +1,5 @@
+* A collection of some of my scripts
+** =fresh.sh=
+Script I use when have to install Debian on a new machine. Includes some of the
+most common utilities I need. 
+
